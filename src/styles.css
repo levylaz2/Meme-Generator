@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.meme-container {
+    text-align: center;
+    padding: 20px;
+    position:relative;
+    display: inline-block;
+  }
+  
+  .meme-gallery {
+    height:300px;
+  
+  }
+
+  img {
+    height:300px;
+    width: 300px;
+  }
+
+
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+   
